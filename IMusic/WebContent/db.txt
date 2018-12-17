@@ -1,0 +1,6 @@
+user = root
+password = MysqlRoot
+dbname = music
+client_id = 65142bd8714ad5488a3e
+client_secret = 6c89ce21afbbca6936d095996f0bff1722fd6df8
+domain = http://localhost:8080
